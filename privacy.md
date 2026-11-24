@@ -1,13 +1,13 @@
 ---
-title: Privacy Policy — ChoiceDesk IIT
+title: Privacy Policy — ChoiceDesk
 ---
 
-# Privacy Policy — ChoiceDesk IIT
+# Privacy Policy — ChoiceDesk
 
-**Effective date:** 16 November 2026
+**Effective date:** 24 November 2026
 **Developer:** Saravanakumar K
 
-ChoiceDesk IIT ("the app") is an offline reference app for JoSAA and CSAB counselling. This policy explains what information the app uses and where it is kept.
+ChoiceDesk ("the app") is an offline reference app for Indian admission counselling: JoSAA and CSAB (IIT, NIT, IIIT, GFTI), TNEA, KEAM Engineering and Medical, GATE M.Tech (CCMT and COAP), MCC UG and PG (NEET), and Tamil Nadu medical admissions. This policy explains what information the app uses and where it is kept.
 
 ## Summary
 
@@ -19,9 +19,9 @@ ChoiceDesk IIT ("the app") is an offline reference app for JoSAA and CSAB counse
 
 | Information | Why it is used | Where it is kept |
 |---|---|---|
-| JEE ranks, category, home state and search filters | To compare courses with published closing ranks | On your device and in your iCloud |
-| Saved choices and their order | To build your choice list | On your device and in your iCloud |
-| Name and profile photo (optional) | To personalise the home screen greeting | On your device and in your iCloud |
+| Ranks, scores and marks (JEE, NEET, GATE, KEAM, Class 12), category, quota, home state and search filters | To compare courses with published cutoffs | On your device and in your iCloud |
+| The admission you chose, saved choices and their order | To build your choice list for each admission | On your device and in your iCloud |
+| Name and profile photo (optional) | To personalise the greeting | On your device and in your iCloud |
 | Theme preference | To show light or dark mode | On your device and in your iCloud |
 | Your town or approximate location (optional) | To show the distance to each institute | On your device and in your iCloud |
 
@@ -43,7 +43,7 @@ If you choose a profile photo, the app uses the iOS photo picker or camera only 
 
 ## In-app purchase
 
-ChoiceDesk Pro is a one-time purchase processed entirely by **Apple** through the App Store. We do not receive your payment details. The app only checks with Apple whether the purchase is active on your Apple ID.
+Each admission (for example JoSAA Pro or MCC UG Pro) is a separate one-time purchase processed entirely by **Apple** through the App Store. We do not receive your payment details. The app only checks with Apple which purchases are active on your Apple ID.
 
 ## Printing, PDF and sharing
 
@@ -51,7 +51,7 @@ Reports you print, save as PDF or share are created on your device. They go only
 
 ## Links to other websites
 
-The app contains links to official websites, such as JoSAA, CSAB and institute fee pages. These open in Safari and are governed by the privacy policies of those websites.
+The app contains links to official websites, such as the official counselling portals and institute pages. These open in Safari and are governed by the privacy policies of those websites.
 
 ## Children
 
@@ -66,7 +66,7 @@ Because all data stays on your device and in your iCloud, you are in full contro
 
 ## Data source and disclaimer
 
-Admission data in the app is taken from the public JoSAA and CSAB websites. ChoiceDesk IIT is an independent app and is not affiliated with JoSAA, CSAB, NIC, the Ministry of Education or any institute.
+Admission data in the app is taken from the public websites of the counselling authorities, such as JoSAA, CSAB, TNEA, CEE Kerala, CCMT, COAP, MCC and the Tamil Nadu selection committee. ChoiceDesk is an independent reference app. It is not affiliated with any admission authority or any institute. Maps, campus locations, distances and travel times are approximate and for guidance only.
 
 ## Changes to this policy
 
